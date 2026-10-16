@@ -25,7 +25,7 @@ app.MapGet("/weatherforecast", () =>
 {
     return new
     {
-        Name = "Nafia",
+        Name = "Nafia Shaik",
         Course = "CSE",
         Year = "2nd Year",
         College = "MITS"
